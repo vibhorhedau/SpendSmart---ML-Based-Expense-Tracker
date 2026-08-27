@@ -1,0 +1,72 @@
+[
+  {
+    "timestamp": "2026-08-27 10:00:00",
+    "version": "Phase2_Rules",
+    "total_samples": 1222,
+    "user_feedback_count": 0,
+    "accuracy": 23.81,
+    "precision": 17.95,
+    "recall": 16.89,
+    "f1_score": 9.57
+  },
+  {
+    "timestamp": "2026-08-27 10:35:00",
+    "version": "Phase3_NaiveBayes",
+    "total_samples": 1222,
+    "user_feedback_count": 0,
+    "accuracy": 92.24,
+    "precision": 93.05,
+    "recall": 91.3,
+    "f1_score": 91.93
+  },
+  {
+    "timestamp": "2026-08-27 10:38:00",
+    "version": "Phase4_Feedback1",
+    "total_samples": 1223,
+    "user_feedback_count": 1,
+    "accuracy": 92.65,
+    "precision": 93.89,
+    "recall": 90.79,
+    "f1_score": 91.83
+  },
+  {
+    "timestamp": "2026-08-27 10:44:00",
+    "version": "Phase6_LogReg_Retrained",
+    "total_samples": 1224,
+    "user_feedback_count": 2,
+    "accuracy": 100.0,
+    "precision": 100.0,
+    "recall": 100.0,
+    "f1_score": 100.0
+  },
+  {
+    "timestamp": "2026-08-27 10:56:01",
+    "version": "20260827_105601",
+    "total_samples": 1224,
+    "user_feedback_count": 2,
+    "accuracy": 100.0,
+    "precision": 100.0,
+    "recall": 100.0,
+    "f1_score": 100.0
+  },
+  {
+    "timestamp": "2026-08-27 10:58:12",
+    "version": "20260827_105812",
+    "total_samples": 1224,
+    "user_feedback_count": 2,
+    "accuracy": 100.0,
+    "precision": 100.0,
+    "recall": 100.0,
+    "f1_score": 100.0
+  },
+  {
+    "timestamp": "2026-08-27 11:01:59",
+    "version": "20260827_110159",
+    "total_samples": 1224,
+    "user_feedback_count": 2,
+    "accuracy": 100.0,
+    "precision": 100.0,
+    "recall": 100.0,
+    "f1_score": 100.0
+  }
+]

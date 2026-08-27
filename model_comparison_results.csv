@@ -1,0 +1,5 @@
+Model,Accuracy (%),Macro Precision (%),Macro Recall (%),Macro F1-Score (%)
+Multinomial Naive Bayes,92.65,93.89,90.79,91.83
+Logistic Regression,100.0,100.0,100.0,100.0
+Linear SVM,100.0,100.0,100.0,100.0
+k-Nearest Neighbors,59.59,57.33,57.68,56.03

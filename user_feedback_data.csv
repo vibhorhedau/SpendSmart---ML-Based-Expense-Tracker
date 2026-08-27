@@ -1,0 +1,2 @@
+id,title,amount,category,date,description,predicted_category,confidence_score,is_user_corrected,source
+user_override_20260827103832,Gym Membership Annual,499.0,Other,2026-08-27,Fitness center annual pass,Utilities,0.45,1,user_override_feedback
