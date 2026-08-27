@@ -1,4 +1,4 @@
-# 💰 SpendSmart - ML-Based Expense Tracker & Lifecycle Pipeline
+# 💰 SpendSmart - ML-Based Expense Tracker 
 
 ### **Overview**
 **SpendSmart** is an intelligent personal finance tracking application powered by machine learning, automated transaction categorization, a baseline rule-based fallback engine, active feedback logging, multi-model evaluation benchmarking, continuous retraining, and an interactive **Streamlit Web UI** & **CLI**.
